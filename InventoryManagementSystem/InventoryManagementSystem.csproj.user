@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="forms\CategoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\CategoryModuleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\CustomComponents\CustomButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="forms\CustomerModuleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\CustomForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\OrderAddCustomerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\OrderEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\OrderFinishForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\OrderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\OrderModuleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\ProductForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\ProductModuleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\ShowOrderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\UserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="forms\UserModuleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
